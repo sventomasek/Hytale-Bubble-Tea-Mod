@@ -1,0 +1,20 @@
+{
+  "Group": "Sven Tomasek",
+  "Name": "Bubble Tea",
+  "Version": "1.0.0",
+  "Main": "com.sventomasek.bubbletea",
+  "Description": "Adds Bubble Tea to the game.",
+  "Authors": [
+    {
+      "Name": "Sven Tomasek",
+      "Url": "https://github.com/sventomasek"
+    }
+  ],
+  "Website": "https://github.com/sventomasek",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true
+}
