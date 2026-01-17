@@ -1,2 +1,8 @@
-items.Food_Bubble_Tea.name = Bubble Tea
+items.Food_Bubble_Tea_Beige.name = Beige Bubble Tea
+items.Food_Bubble_Tea_Pink.name = Pink Bubble Tea
+items.Food_Bubble_Tea_Blue.name = Blue Bubble Tea
+items.Food_Bubble_Tea_Brown.name = Brown Bubble Tea
+items.Food_Bubble_Tea_Green.name = Green Bubble Tea
+items.Food_Bubble_Tea_Orange.name = Orange Bubble Tea
+items.Food_Bubble_Tea_Purple.name = Purple Bubble Tea
 items.Food_Bubble_Tea.description = [TMP] Instantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>

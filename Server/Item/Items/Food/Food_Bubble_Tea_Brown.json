@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Food_Bubble_Tea_Beige.name",
+    "Name": "server.items.Food_Bubble_Tea_Brown.name",
     "Description": "server.items.Food_Bubble_Tea.description"
   },
   "PlayerAnimationsId": {
@@ -19,7 +19,7 @@
     "Secondary": "Root_Secondary_Consume_Food_T3"
   },
   "Quality": "Rare",
-  "Icon": "Icons/ItemsGenerated/Food_Bubble_Tea_Beige.png",
+  "Icon": "Icons/ItemsGenerated/Food_Bubble_Tea_Brown.png",
   "BlockType": {
     "Material": "Empty",
     "DrawType": "Model",
@@ -27,7 +27,7 @@
     "CustomModel": "Items/Consumables/Food/Bubble_Tea.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Items/Consumables/Food/Bubble_Tea_Beige.png",
+        "Texture": "Items/Consumables/Food/Bubble_Tea_Brown.png",
         "Weight": 1
       }
     ],

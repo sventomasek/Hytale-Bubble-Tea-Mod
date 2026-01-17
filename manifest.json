@@ -1,7 +1,7 @@
 {
   "Group": "Sven Tomasek",
   "Name": "Bubble Tea",
-  "Version": "1.0.0",
+  "Version": "1.1.0",
   "Main": "com.sventomasek.bubbletea",
   "Description": "Adds Bubble Tea to the game.",
   "Authors": [
